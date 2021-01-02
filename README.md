@@ -1,7 +1,8 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is to check the started web repo in git
 
+checking the comparison files on source and system
 ## Purpose
 
-Sample website with plenty of files for demos
+this is only a sample working project
